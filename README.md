@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafi0305
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning phython
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - just mail me
 - 😄 Pronouns: he/him
